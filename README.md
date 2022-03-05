@@ -1,13 +1,21 @@
 Thank you for downloading my product!
 
 This is the February 2022 release of my free mini-pack series. This is a MALE LSPD pack and it includes the following:
+----
 -Patrol Pants
+----
 -MBU Pants
+----
 -Utility Jacket
+----
 -Class A
+----
 -Class B
+----
 -Class C
+----
 -Custom Badge
+----
 
 A female version can be made upon request, make a ticket in my discord for more info!
 
