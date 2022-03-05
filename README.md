@@ -14,6 +14,8 @@ This is the February 2022 release of my free mini-pack series. This is a MALE LS
 ----
 -Class C
 ----
+-Custom Rank Insignia Patches
+----
 -Custom Badge
 ----
 
